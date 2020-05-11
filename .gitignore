@@ -1,6 +1,9 @@
 // Standard gitignore file with common ignores
 
 .DS_Store
+__pycache__
+
+
 # Logs
 logs
 *.log
